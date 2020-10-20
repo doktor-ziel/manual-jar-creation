@@ -1,0 +1,2 @@
+Main-Class: pl.acme.vip.Calculator
+Class-Path: lib/myLib.jar
